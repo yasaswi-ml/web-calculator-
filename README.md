@@ -1,24 +1,24 @@
-Calculator with Theme Toggle
-
+<h1>Calculator with Theme Toggle<h2>
+<br>
 A simple and responsive calculator built using HTML, CSS, and JavaScript with a Light/Dark Theme Toggle feature. This project demonstrates DOM manipulation, event handling, and dynamic theme switching.
+<br>
+-->Features<br>
+Basic arithmetic operations:<br>
+Addition (+)<br>
+Subtraction (-)<br>
+Multiplication (×)<br>
+Division (÷)<br>
+Clear (C) button<br>
+Responsive design<br>
+Light and Dark mode toggle<br>
+Smooth user experience<br>
+Beginner-friendly code structure<br>
 
--->Features
-Basic arithmetic operations:
-Addition (+)
-Subtraction (-)
-Multiplication (×)
-Division (÷)
-Clear (C) button
-Responsive design
-Light and Dark mode toggle
-Smooth user experience
-Beginner-friendly code structure
 
-
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
+🛠️ Technologies Used<br>
+HTML5<br>
+CSS3<br>
+JavaScript (ES6)<br>
 
 
 
