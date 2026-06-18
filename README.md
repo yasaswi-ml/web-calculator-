@@ -25,7 +25,7 @@ JavaScript (ES6)
 Example: 
 
  
-<img width="600" height="500" alt="Screenshot 2026-06-18 192001" src="https://github.com/user-attachments/assets/0a84adbd-de76-4bd2-b280-326a5ff418bf" />
-<img width="1473" height="825" alt="Screenshot 2026-06-18 191952" src="https://github.com/user-attachments/assets/61d04cac-0428-495f-8c51-3d2241cb10e3" />
+<img width="400" height="300" alt="Screenshot 2026-06-18 192001" src="https://github.com/user-attachments/assets/0a84adbd-de76-4bd2-b280-326a5ff418bf" />
+<img width="400" height="300" alt="Screenshot 2026-06-18 191952" src="https://github.com/user-attachments/assets/61d04cac-0428-495f-8c51-3d2241cb10e3" />
 
 
